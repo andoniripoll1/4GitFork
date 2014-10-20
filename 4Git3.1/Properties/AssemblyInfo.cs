@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("4Git3.1")]
-[assembly: AssemblyDescription("This is a new description to commit")]
+[assembly: AssemblyDescription("Esto es lo que dice Fayon")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Hewlett-Packard")]
 [assembly: AssemblyProduct("4Git3.1")]
